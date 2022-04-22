@@ -1,0 +1,27 @@
+{
+  "name": "10testingframework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xelva/mod-testing-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "tme": "app.js"
+  },
+  "bugs": {
+    "url": "https://github.com/xelva/mod-testing-framework/issues"
+  },
+  "homepage": "https://github.com/xelva/mod-testing-framework#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "jsdom": "^19.0.0"
+  }
+}
